@@ -1,0 +1,16 @@
+{
+  "name": "webscrapingrutyfirma",
+  "version": "1.0.0",
+  "description": "Para probar si es posible realizar con Selenium, solo a modo de prueba y aprendizaje",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index_selenium.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe M",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^114.0.2",
+    "selenium-webdriver": "^4.10.0"
+  }
+}
